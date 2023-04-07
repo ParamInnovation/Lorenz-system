@@ -1,0 +1,71 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+#slider1 {
+  position: absolute;
+  top: 7%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+}
+h1{
+  color:black;
+  font-size: larger;
+}
+
+#slider1 .rs-range-color  {
+  background: radial-gradient(ellipse at bottom, rgba(0, 0, 0, 1) 0%, rgba(48, 7, 36, 1) 34%, rgba(255, 255, 255, 1) 66%, rgba(0, 0, 0, 1) 100%);
+}
+#slider1 .rs-path-color  {
+  background: radial-gradient(ellipse at bottom, rgba(255, 255, 255, 1) 0%, rgba(169, 173, 174, 1) 34%, rgba(255, 255, 255, 1) 66%, rgba(5, 0, 0, 1) 100%);
+}
+#slider1 .rs-handle  {
+  background: radial-gradient(ellipse at center, rgba(228, 228, 228, 1) 0%, rgba(179, 179, 179, 1) 34%, rgb(102, 91, 98) 100%);
+}
+#slider1.rs-border  {
+  border-color: white;
+}
+
+
+#slider2 {
+  position: absolute;
+  top: 7%;
+  left:15%;
+  transform: translate(-50%, -50%);
+}
+
+#slider2 .rs-range-color  {
+  background: radial-gradient(ellipse at bottom, rgba(0, 0, 0, 1) 0%, rgba(48, 7, 36, 1) 34%, rgba(255, 255, 255, 1) 66%, rgba(0, 0, 0, 1) 100%);
+}
+#slider2 .rs-path-color  {
+  background: radial-gradient(ellipse at bottom, rgba(255, 255, 255, 1) 0%, rgba(169, 173, 174, 1) 34%, rgba(255, 255, 255, 1) 66%, rgba(5, 0, 0, 1) 100%);
+}
+#slider2 .rs-handle  {
+  background: radial-gradient(ellipse at center, rgba(228, 228, 228, 1) 0%, rgba(179, 179, 179, 1) 34%, rgb(102, 91, 98) 100%);
+}
+#slider2.rs-border  {
+  border-color: white;
+}
+
+
+
+#slider3 {
+  position: absolute;
+  top: 7%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
+
+#slider3 .rs-range-color  {
+  background: radial-gradient(ellipse at bottom, rgba(0, 0, 0, 1) 0%, rgba(48, 7, 36, 1) 34%, rgba(255, 255, 255, 1) 66%, rgba(0, 0, 0, 1) 100%);
+}
+#slider3 .rs-path-color  {
+  background: radial-gradient(ellipse at bottom, rgba(255, 255, 255, 1) 0%, rgba(169, 173, 174, 1) 34%, rgba(255, 255, 255, 1) 66%, rgba(5, 0, 0, 1) 100%);
+}
+#slider3 .rs-handle  {
+  background: radial-gradient(ellipse at center, rgba(228, 228, 228, 1) 0%, rgba(179, 179, 179, 1) 34%, rgb(102, 91, 98) 100%);
+}
+#slider3.rs-border  {
+  border-color: white;
+}
