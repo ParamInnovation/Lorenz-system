@@ -1,1 +1,1 @@
-# Lorenz-system
+# Lorenz-attractor
